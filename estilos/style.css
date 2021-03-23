@@ -8,9 +8,13 @@ body{
 
 }
 
+img.lado{
+    float: right;
+}
+
 main{
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(95, 8, 8);
